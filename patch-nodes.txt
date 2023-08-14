@@ -1,0 +1,39 @@
+# YouTube Music App v1.0.0 Patch Notes
+
+We're excited to release version 1.0.0 of the YouTube Music App! This update brings a range of improvements and features to enhance your experience.
+
+## New Features and Enhancements
+
+- **Initial Release:** This marks the first official release of the YouTube Music App! Enjoy the convenience of accessing YouTube Music directly from your desktop.
+- **Sleek User Interface:** Experience a minimalistic and sleek user interface designed for easy navigation.
+- **Quick Access:** Open the YouTube Music website within the app and enjoy a seamless browsing experience.
+- **Optimized for Windows 11:** The app has been tested on Windows 11 to ensure compatibility and performance.
+
+## Important Notes
+
+- **Loading Time:** Please note that the app may take a few moments to load, especially the first time it's launched. This brief delay is due to the WebView content loading process.
+- **Feedback:** Your feedback is important to us! If you encounter any issues or have suggestions for improvements, please don't hesitate to reach out to us.
+
+## Known Issues
+
+- None reported at this time. We're committed to addressing any issues that may arise and providing timely updates.
+
+## How to Get Started
+
+1. Install Dependencies: Make sure you have the required dependencies by following the instructions in the README.
+2. Run the App: Run the `music.py` script to launch the YouTube Music App.
+3. Access YouTube Music: Click on "File" in the menu bar and select "Open YouTube Music" to start exploring YouTube Music within the app.
+
+## Acknowledgments
+
+We'd like to express our gratitude to the community for their support and feedback during the development process. Your input has been invaluable in shaping this release.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for choosing the YouTube Music App. We hope you enjoy using it as much as we enjoyed creating it!
+
+For more information and updates, please visit our [GitHub repository](https://github.com/yourusername/your-repo).
